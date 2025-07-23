@@ -6,7 +6,7 @@ import { Pokemon } from './app/pokemon/pokemon';
   selector: 'app-root',
   imports: [Pokemon],
   template: `
-    <app-pokemon></app-pokemon>
+    <app-pokemon> </app-pokemon>
   `,
 })
 export class App {
